@@ -24,7 +24,7 @@ var typed= new Typed('#typing',{
         "Front End Developer",
         "Back End Developer",
         "Software Developer",
-
+"Front End Developer", 
     ],
     typeSpeed:100,
     backSpeed: 50,
