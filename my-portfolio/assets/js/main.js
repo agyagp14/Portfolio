@@ -22,9 +22,10 @@ document.addEventListener("DOMContentLoaded", function () {
 var typed= new Typed('#typing',{
     strings:[
         "Front End Developer",
+        "Front End Developer",
         "Back End Developer",
         "Software Developer",
-"Front End Developer", 
+ 
     ],
     typeSpeed:100,
     backSpeed: 50,
